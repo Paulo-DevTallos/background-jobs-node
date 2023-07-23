@@ -1,7 +1,4 @@
-import { config } from "dotenv";
 import { app } from "./scr/app";
-
-config();
 
 const port = process.env.PORT;
 
