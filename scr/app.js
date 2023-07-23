@@ -1,3 +1,4 @@
+import 'dotenv/config';
 import express from "express";
 import { createUser } from "./controllers/user.controller";
 
